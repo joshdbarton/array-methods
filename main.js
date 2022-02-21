@@ -4,9 +4,14 @@ const contacts = require('./data.json');
 // you can look in that file to see the data structure you
 // will be working with. 
 
-// For each exercise, 1. use array methods to get the result, 
-// 2. store the result with a variable, and 3. appropriately 
-// log the results to the console
+// For each exercise:
+// 1. use array methods with the variable contacts to get the desired result, 
+// 2. store the result with a variable
+// 3. appropriately log the results to the console
+
+
+
+//You can put your solutions after each comment below:
 
 //1. an array that contains all of the contacts that work at INSECTUS
 
